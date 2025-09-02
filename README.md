@@ -15,7 +15,7 @@ AI-powered futures trading journal with Zorian coaching, ATR-aware analytics, an
 
 ```bash
 # 1) clone
-git clone https://github.com/YourUserName/TradeGodz-Journal.git
+git clone https://github.com/westtommy63/TradeGodz-Journal.git
 cd TradeGodz-Journal
 
 # 2) enable workspace
