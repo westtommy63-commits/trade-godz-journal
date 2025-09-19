@@ -4,6 +4,13 @@
 
 AI-powered futures trading journal with Zorian coaching, ATR-aware analytics, and fast import/export.
 
+## Agent Journal Logger
+
+- **Docs:** [`docs/orchestrate_journal_logger.md`](docs/orchestrate_journal_logger.md)
+- **Script:** [`scripts/journal_log_orchestrate.ps1`](scripts/journal_log_orchestrate.ps1)
+
+Use these to log the latest orchestrate run into `C:\Zorian\journal\` as timestamped Markdown, either via PowerShell, the Python helper module, CLI flag, or FastAPI endpoint.
+
 ## Tech Stack
 - **API**: NestJS + Prisma + PostgreSQL
 - **Web**: Next.js + React + TailwindCSS
